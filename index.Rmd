@@ -27,12 +27,6 @@ library(fontawesome)
 
 class: inverse, center, middle
 
-
-<head>
-  <link rel=icon href=https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/magnifying-glass-chart.svg>
-</head>
-
-
 # `r fa("fas fa-images", fill = "#fff")`
 
 **View the slides:** 
@@ -50,7 +44,7 @@ class: inverse, center, middle
 # `r fa("far fa-calendar-days", fill = "#fff")` AECT 100
 
 ```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
-include_graphics("img/aect100-logo.png")
+include_graphics("img/aect100.png")
 ```
 
 The 2023 convention marks 100 years as an organization. 
